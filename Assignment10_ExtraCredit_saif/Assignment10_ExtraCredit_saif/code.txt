@@ -1,0 +1,13 @@
+begin
+	if kig then
+	
+	if kig then
+		begin
+   		kig:=5;;;;;
+		end
+		
+	else
+	kig:=5
+	
+
+end.

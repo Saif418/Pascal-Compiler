@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(415,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(420,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(441,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(464,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(507,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\Assignment10_ExtraCredit_saif\Source.cpp(511,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment10_ExtraCredit_saif.vcxproj -> C:\Users\saikh\OneDrive - North Dakota University System\CS335 Theoretical\Assignment10_ExtraCredit_saif\x64\Debug\Assignment10_ExtraCredit_saif.exe
